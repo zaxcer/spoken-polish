@@ -27,11 +27,13 @@ The pack holds recordings only, never their text: to read the quests in Polish, 
 
 ## Install
 
-Spoken has no Polish language yet. Until it does:
+The pack is ready for Spoken's community packs; it plays once Spoken supports Polish (`plPL`).
 
 1. Install **Spoken** (CurseForge) and **WoWPoPolskuForever**.
-2. Extract `SpokenCommunity_polski-<version>-itIT.zip` into `World of Warcraft\_forever_\Interface\AddOns`.
-3. Restart the game. In Spoken's settings (`/sp`), main page, section Language: **Voice Language: Italiano**.
+2. Install the pack from the Community page of the **Spoken Manager**, or extract `SpokenCommunity_polski-<version>.zip`
+   from the [latest release](https://github.com/zaxcer/spoken-polish/releases) into
+   `World of Warcraft\_forever_\Interface\AddOns`.
+3. Restart the game. In Spoken's settings (`/sp`), main page, section Language: **Voice Language: Polski**.
 
 ## How it is made
 
