@@ -21,9 +21,9 @@ The pack holds recordings only, never their text: to read the quests in Polish, 
 
 | | |
 |---|---|
-| Voiced | Durotar quests: accept, progress and completion (499 recordings, ~3 h), male and female variants where the Polish text depends on the player's sex |
-| Not yet | NPC gossip, NPC chat after quests, the other starting zones |
-| Next | all starting zones, then the whole Classic story |
+| Voiced | quests (accept, progress, completion) in **Durotar, Mulgore and the Barrens**: 1565 recordings, male and female variants where the Polish text depends on the player's sex |
+| Not yet | NPC gossip, NPC chat after quests, the other zones |
+| Next | the remaining starting zones, then the whole Classic story |
 
 ## Install
 
@@ -39,6 +39,8 @@ The pack is ready for Spoken's community packs; it plays once Spoken supports Po
 
 - **Voices:** designed from scratch with ElevenLabs Voice Design; no voice is cloned from a real person. Lines are
   generated with ElevenLabs v4 Turbo.
-- In the recordings the player's name and class are "wędrowiec / wędrowczyni", the race "członek / członkini Hordy".
+- A recording cannot know the player's name, class or race: a standalone address ("Wojowniku!", "Zax,") is left out,
+  elsewhere the player is "wędrowiec / wędrowczyni", the race "członek / członkini Hordy" (or Przymierza).
+- A few creatures are voiced by processing a deep voice (Mangletooth the quillboar), so the beast lasts to the last word.
 - Classic story only, no game files, nothing reposted from Spoken's official packs.
 - Non-commercial fan work. World of Warcraft is a trademark of Blizzard Entertainment.
