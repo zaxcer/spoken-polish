@@ -2,7 +2,7 @@
 
 **Polski lektor do [Spoken](https://github.com/rusty-key/spoken-wow) w WoW Forever.**
 Polish voiceover for Spoken in WoW Forever: quest dialogue read aloud in Polish, each character type with its own voice
-(orcs, trolls, tauren, goblins and more).
+(orcs, trolls, tauren, dwarves, gnomes, elves and more).
 
 ## Tłumaczenie: drużyna WoWPoPolsku / Translation: the WoWPoPolsku team
 
@@ -21,13 +21,13 @@ The pack holds recordings only, never their text: to read the quests in Polish, 
 
 | | |
 |---|---|
-| Voiced | quests (accept, progress, completion) in **Durotar, Mulgore and the Barrens**: 1565 recordings, male and female variants where the Polish text depends on the player's sex |
-| Not yet | NPC gossip, NPC chat after quests, the other zones |
-| Next | the remaining starting zones, then the whole Classic story |
+| Voiced | quests (accept, progress, completion) of **levels 1–58 for both sides**: every starting zone and every levelling zone up to Western Plaguelands and Burning Steppes, 50 zones and dungeons, 11 773 recordings, male and female variants where the Polish text depends on the player's sex |
+| Not yet | Eastern Plaguelands, Winterspring, Silithus, Moonglade, level-60 dungeons and raids, the capitals' own quests, battlegrounds, NPC gossip and chat after quests |
+| Next | the level 53–60 zones, then the capitals |
 
 ## Install
 
-The pack is ready for Spoken's community packs; it plays once Spoken supports Polish (`plPL`).
+Spoken supports Polish (`plPL`) since version 3.8.3.
 
 1. Install **Spoken** (CurseForge) and **WoWPoPolskuForever**.
 2. Install the pack from the Community page of the **Spoken Manager**, or extract `SpokenCommunity_polski-<version>.zip`
